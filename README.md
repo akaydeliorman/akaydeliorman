@@ -22,3 +22,8 @@
 ## Languages 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akaydeliorman&layout=compact&theme=radical)
+
+## Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akaydeliorman&show_owner=true&theme=tokyonight&repo=hoaxify)](https://github.com/akaydeliorman/hoaxify)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akaydeliorman&show_owner=true&theme=tokyonight&repo=Akbank-Java-Spring-Bootcamp-Homeworks)](https://github.com/akaydeliorman/Akbank-Java-Spring-Bootcamp-Homeworks)
