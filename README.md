@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Akay%20Deliorman&fontSize=48&fontAlignY=38&desc=Software%20Developer&descAlignY=60)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=2aa889&fontColor=ffffff&height=180&section=header&text=Akay%20Deliorman&fontSize=48&fontAlignY=38&desc=Software%20Developer&descAlignY=60)
 
 **Android · Deep Learning · Backend**
 
