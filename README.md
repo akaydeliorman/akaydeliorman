@@ -1,33 +1,79 @@
-# Hi there, I'm Akay Deliorman! 😎
+<div align="center">
 
-## About Me
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Akay%20Deliorman&fontSize=48&fontAlignY=38&desc=Software%20Developer&descAlignY=60)
 
-- I hold a degree from the Department of Computer Technology and Information Systems at Trakya University. My area of focus lies in the domain of Java backend development, where I consistently strive to further augment my skills.
+**Android · Deep Learning · Backend**
 
-## Interests and Hobbies
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akaydeliorman/)
 
-- I engaged in bodybuilding for a period of one year and currently, I am interested in calisthenics as a form of exercise.
-- I have a passion for listening to music and playing the guitar. 
-- Cooking brings me joy, and I find pleasure in preparing meals. 
-- Additionally, I am an enthusiast of Formula-1 racing and enjoy watching it.
+</div>
 
-<h2 align="left">Languages and Tools:</h2>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+## 👋 About Me
 
+I hold a degree in Computer Technology and Information Systems from Trakya University. I'm currently expanding my skills in C# / .NET backend development.
 
-## How to Get in Touch
+| Area | Experience |
+|---|---|
+| ☕ Java (Spring Boot, RESTful APIs) | 1.5 years |
+| 📱 Android development with Android Studio | 2 years |
+| 🐍 Image processing and deep learning with Python (PyTorch, OpenCV) | 1 year |
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)][linkedin]            
-- [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white)][email]
+## 🛠️ Languages and Tools
 
-  [linkedin]: https://www.linkedin.com/in/akaydeliorman/
-  [email]: mailto:dlrmn.akay@gmail.com
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+</p>
 
-## Languages 
+## 🚀 Featured Work
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akaydeliorman&layout=compact&theme=radical)
+### 🌍 National Roaming: Android network management for disasters
+**Java · Android SDK · TelephonyManager API · Location Services**
+- Designed an Android network layer that automatically switches the device to the strongest available network when the primary operator is unreachable, such as during earthquakes and other disasters.
+- Built emergency SMS broadcast, dynamic APN list retrieval and location-based crisis notification modules.
+- Reduced battery drain during continuous background signal scanning by optimizing low-level network state monitoring.
 
-## Repositories
+### 👁️ AI-assisted eye disease detection
+**Python · PyTorch · OpenCV · MATLAB · Kotlin · Java · Android Studio**
+- Contributed to an end-to-end image processing and deep learning pipeline that detects vessel tortuosity, glaucoma, central serous retinopathy and diabetic retinopathy from fundus images captured with a smartphone optical attachment.
+- Combined classical techniques (green channel extraction, CLAHE, Gaussian blur, Otsu thresholding) with PyTorch models, reaching 83% accuracy in early diagnosis.
+- Built modules for Cup-to-Disc Ratio calculation (multi-level Otsu thresholding with ellipse fitting) and a color-coded vessel tortuosity map.
+- Developed the native Android app that connects the optical attachment, cloud services and on-device inference, designed to run on low-end hardware.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akaydeliorman&show_owner=true&theme=tokyonight&repo=hoaxify)](https://github.com/akaydeliorman/hoaxify)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akaydeliorman&show_owner=true&theme=tokyonight&repo=Akbank-Java-Spring-Bootcamp-Homeworks)](https://github.com/akaydeliorman/Akbank-Java-Spring-Bootcamp-Homeworks)
+### ☁️ Weather Forecast Service
+**Java · Spring Boot · PostgreSQL · JWT · OpenWeatherMap API · Swagger · JUnit**
+- Built a scalable RESTful backend that serves 5-day weather data in 3-hour intervals (Akbank Java Spring Bootcamp capstone).
+- Implemented JWT-based authentication and authorization for registration, login and favorite city tracking.
+- Cached search results and user preferences in PostgreSQL to reduce external API latency.
+- Wrote JUnit unit tests, set up logging and documented the API with Swagger / OpenAPI.
+
+### 🏠 IoT Smart Home Control System
+**Java · Android Studio · Arduino (C) · Firebase Realtime Database**
+- Built an end-to-end smart home prototype covering lighting, gas detection, automatic door locking and a security alarm (university capstone, solo project).
+- Designed and coded the native Android app with remote device control and voice commands, and programmed the sensors on Arduino in C.
+- Used Firebase Realtime Database for two-way, real-time sync between hardware and app to keep latency low, and built a working model of the system.
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://streak-stats.demolab.com/?user=akaydeliorman&theme=gotham&timezone=Europe/Istanbul&hide_border=true&card_width=495&card_height=195" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=akaydeliorman&theme=gotham&show_icons=true&include_all_commits=true&custom_title=Akay%20Deliorman%27s%20Stats&hide_border=true&card_width=495" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaydeliorman&layout=compact&theme=gotham&hide=html,css&langs_count=6&hide_border=true&card_width=495" />
+</p>
+
+## 🎸 Outside of Code
+
+Calisthenics, guitar, cooking, games and UFC.
