@@ -66,7 +66,7 @@ I hold a degree in Computer Technology and Information Systems from Trakya Unive
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=akaydeliorman&theme=gotham&timezone=Europe/Istanbul&hide_border=true&card_width=495&card_height=195" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=akaydeliorman&theme=gotham&timezone=Europe/Istanbul&hide_border=true&card_width=495&card_height=195&v=20261010" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=akaydeliorman&theme=gotham&show_icons=true&include_all_commits=true&custom_title=Akay%20Deliorman%27s%20Stats&hide_border=true&card_width=495" />
 </p>
 
