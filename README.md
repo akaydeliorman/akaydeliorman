@@ -71,7 +71,7 @@ I hold a degree in Computer Technology and Information Systems from Trakya Unive
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaydeliorman&layout=compact&theme=gotham&hide=html,css&langs_count=6&hide_border=true&card_width=495" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaydeliorman&layout=compact&theme=gotham&langs_count=6&hide_border=true&card_width=495" />
 </p>
 
 ## 🎸 Outside of Code
